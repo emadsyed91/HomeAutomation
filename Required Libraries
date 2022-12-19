@@ -1,0 +1,7 @@
+Before uploading the code, must install this library:
+
+ESP8266WiFi.h   https://github.com/ekstrand/ESP8266wifi
+
+RemoteXY.h     http://remotexy.com/en/library/
+
+Install the app from the Google play store: https://play.google.com/store/apps/details?id=com.shevauto.remotexy.free&hl=en
