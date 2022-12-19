@@ -1,0 +1,6 @@
+    Connect VCC pin of relay module to 3v3 pin of Node MCU.
+    Connect GND pin of relay module to GND of Node MCU.
+    Connect Signal input pin of relay module to pin D4 on Node MCU.
+    Connect the positive wire of 12V adapter to COM port in relay module.
+    Connect the positive wire of fan to NO port in relay module.
+    Connect negative wire of adapter to negative wire of fan.
