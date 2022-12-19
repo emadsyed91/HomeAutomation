@@ -5,3 +5,8 @@ ESP8266WiFi.h   https://github.com/ekstrand/ESP8266wifi
 RemoteXY.h     http://remotexy.com/en/library/
 
 Install the app from the Google play store: https://play.google.com/store/apps/details?id=com.shevauto.remotexy.free&hl=en
+Steps to use the RemoteXY app : 
+Step 1: Connect your smartphone to RemoteXY wifi access point with the password as: 12345678
+Step 2: Click on <unknown ssid> button
+
+Step 3: Here is the ON/OFF interface.
